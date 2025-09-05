@@ -27,7 +27,7 @@ This project was developed as part of a group assignment focused on applying NLP
 - **Project Notion Page**: [View on Notion](https://www.notion.so/Group-0-Project-Semantic-Search-engine-for-Hotels-2b711f421db840fdab5adbaf4d20913d?pvs=4)
 
 ## Try the Project
-- **Live Demo on Hugging Face**: [Hotel Semantic Search](https://huggingface.co/spaces/AzizTh/Hotel-Semantic-Search)
+- **Live Demo on Hugging Face**: [Hotel Semantic Search](https://huggingface.co/spaces/mohammed242/Hotel-Semantic-Search)
   
 ## 🚀 How to Run
 
